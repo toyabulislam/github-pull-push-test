@@ -4,8 +4,17 @@ body{
        margin: 0;
        padding: 0;
 }
-section.header{
+section.nav{
        background: darkgreen;
+}
+.my-logo{
+       text-align: center;
+}
+.nav img{
+       width: 300px;
+}
+section.header{
+       background: darkred;
 }
 .container{
        max-width: 1200px;
@@ -17,4 +26,13 @@ section.header{
        font-size: 2rem;
        font-weight: 700;
        text-align: center;
+}
+.my-pic{
+       text-align: center;
+}
+section.me{
+       background: darkslategray;
+}
+.my-pic img{
+       width: 400px;
 }
